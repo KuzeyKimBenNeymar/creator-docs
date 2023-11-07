@@ -1,4 +1,4 @@
----
+---Spaces
 title: Accessory Fitting Tool
 description: The Accessory Fitting Tool lets you adjust and test custom accessory models on different body types, animations, or custom assets.
 labels: Article,Engine,Cloud API
